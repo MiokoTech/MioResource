@@ -1,0 +1,144 @@
+{
+  "type": "boss",
+  "mandatory": [
+    "godzilla"
+  ],
+  "peds": [
+    {
+      "id": "godzilla",
+      "name": "Godzilla",
+      "types": [
+        {
+          "typeId": "godzilla",
+          "previews": [
+            "godzilla.jpg"
+          ],
+          "files": [
+            "godzilla.ydd",
+            "godzilla.yft",
+            "godzilla.ymt",
+            "godzilla.ytd"
+          ]
+        },
+        {
+          "typeId": "mechagodzilla",
+          "previews": [
+            "mechagodzilla.webp"
+          ],
+          "files": [
+            "mechagodzilla.ydd",
+            "mechagodzilla.yft",
+            "mechagodzilla.ymt",
+            "mechagodzilla.ytd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gan_q",
+      "name": "Gan Q",
+      "types": [
+        {
+          "typeId": "default",
+          "previews": [
+            "gan_q.png"
+          ],
+          "files": [
+            "gan_q.ydd",
+            "gan_q.yft",
+            "gan_q.ymt",
+            "gan_q.ytd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hulkbuster",
+      "name": "Hulkbuster",
+      "types": [
+        {
+          "typeId": "default",
+          "previews": [
+            "hulkbuster.jpg"
+          ],
+          "files": [
+            "hulkbuster.ydd",
+            "hulkbuster.yft",
+            "hulkbuster.ymt",
+            "hulkbuster.ytd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kingkong",
+      "name": "King Kong",
+      "types": [
+        {
+          "typeId": "default",
+          "previews": [
+            "king_kong.png"
+          ],
+          "files": [
+            "king_kong.ydd",
+            "king_kong.yft",
+            "king_kong.ymt",
+            "king_kong.ytd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pasifickrim",
+      "name": "Pacific Rim",
+      "types": [
+        {
+          "typeId": "default",
+          "previews": [],
+          "files": [
+            "pasific_krim.ydd",
+            "pasific_krim.yft",
+            "pasific_krim.ymt",
+            "pasific_krim.ytd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "robot",
+      "name": "Robot",
+      "types": [
+        {
+          "typeId": "default",
+          "previews": [
+            "robot.jpg"
+          ],
+          "files": [
+            "robot.ydd",
+            "robot.yft",
+            "robot.ymt",
+            "robot.ytd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "venom",
+      "name": "Venom Deadpool",
+      "types": [
+        {
+          "typeId": "default",
+          "previews": [
+            "venom_deadpool.webp"
+          ],
+          "files": [
+            "venom_deadpool.ydd",
+            "venom_deadpool.yft",
+            "venom_deadpool.ymt",
+            "venom_deadpool.ytd"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "type": "normal",
+  "peds": [
+    {
+      "id": "batman",
+      "name": "Batman",
+      "previews": [
+        "batman.webp"
+      ],
+      "files": [
+        "batman.ydd",
+        "batman.yft",
+        "batman.ymt",
+        "batman.ytd"
+      ]
+    },
+    {
+      "id": "boros",
+      "name": "Boros",
+      "previews": [],
+      "files": []
+    },
+    {
+      "id": "deadpool",
+      "name": "Deadpool",
+      "previews": [
+        "deadpool.jpg"
+      ],
+      "files": [
+        "deadpool.ydd",
+        "deadpool.yft",
+        "deadpool.ymt",
+        "deadpool.ytd"
+      ]
+    },
+    {
+      "id": "genos",
+      "name": "Genos",
+      "previews": [
+        "genos.webp"
+      ],
+      "files": [
+        "genos.ydd",
+        "genos.yft",
+        "genos.ymt",
+        "genos.ytd"
+      ]
+    },
+    {
+      "id": "ghost_rider",
+      "name": "Ghost Rider",
+      "previews": [
+        "ghostrider.webp"
+      ],
+      "files": [
+        "ghostrider.ydd",
+        "ghostrider.yft",
+        "ghostrider.ymt",
+        "ghostrider.ytd"
+      ]
+    },
+    {
+      "id": "gojo",
+      "name": "Gojo Satoru",
+      "previews": [
+        "gojo.jpg"
+      ],
+      "files": [
+        "gojo.ydd",
+        "gojo.yft",
+        "gojo.ymt",
+        "gojo.ytd"
+      ]
+    },
+    {
+      "id": "kratos",
+      "name": "Kratos",
+      "previews": [
+        "kratos.jpg"
+      ],
+      "files": [
+        "kratos.ydd",
+        "kratos.yft",
+        "kratos.ymt",
+        "kratos.ytd"
+      ]
+    },
+    {
+      "id": "leon",
+      "name": "Leon",
+      "previews": [
+        "leon.webp"
+      ],
+      "files": [
+        "leon.ydd",
+        "leon.yft",
+        "leon.ymt",
+        "leon.ytd"
+      ]
+    },
+    {
+      "id": "midoriya",
+      "name": "Midoriya",
+      "previews": [
+        "midoriya.jpg"
+      ],
+      "files": [
+        "midoriya.ydd",
+        "midoriya.yft",
+        "midoriya.ymt",
+        "midoriya.ytd"
+      ]
+    },
+    {
+      "id": "miku",
+      "name": "Hatsune Miku",
+      "previews": [
+        "hatsunemiku.jpg"
+      ],
+      "files": [
+        "hatunemiku.ydd",
+        "hatunemiku.yft",
+        "hatunemiku.ymt",
+        "hatunemiku.ytd"
+      ]
+    }
+  ]
+}

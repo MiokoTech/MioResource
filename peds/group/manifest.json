@@ -1,0 +1,110 @@
+{
+  "type": "group",
+  "groups": [
+    {
+      "id": "avenger",
+      "name": "Avengers",
+      "previews": [],
+      "members": [
+        {
+          "id": "captain_america",
+          "files": [
+            "captain_america/captain_america.ydd",
+            "captain_america/captain_america.yft",
+            "captain_america/captain_america.ymt",
+            "captain_america/captain_america.ytd"
+          ]
+        },
+        {
+          "id": "cob",
+          "files": [
+            "cob/cob.ydd",
+            "cob/cob.yft",
+            "cob/cob.ymt",
+            "cob/cob.ytd"
+          ]
+        },
+        {
+          "id": "hulk",
+          "files": [
+            "hulk/hulk.ydd",
+            "hulk/hulk.yft",
+            "hulk/hulk.ymt",
+            "hulk/hulk.ytd"
+          ]
+        },
+        {
+          "id": "ironman",
+          "files": [
+            "ironman/ironman.ydd",
+            "ironman/ironman.yft",
+            "ironman/ironman.ymt",
+            "ironman/ironman.ytd"
+          ]
+        },
+        {
+          "id": "spiderman",
+          "files": [
+            "spiderman/spiderman.ydd",
+            "spiderman/spiderman.yft",
+            "spiderman/spiderman.ymt",
+            "spiderman/spiderman.ytd"
+          ]
+        },
+        {
+          "id": "thanos",
+          "files": [
+            "thanos/thanos.ydd",
+            "thanos/thanos.yft",
+            "thanos/thanos.ymt",
+            "thanos/thanos.ytd"
+          ]
+        },
+        {
+          "id": "thor",
+          "files": [
+            "thor/thor.ydd",
+            "thor/thor.yft",
+            "thor/thor.yld",
+            "thor/thor.ymt",
+            "thor/thor.ytd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "onepiece",
+      "name": "One Piece",
+      "previews": [],
+      "members": [
+        {
+          "id": "ace",
+          "files": [
+            "ace.ydd",
+            "ace.yft",
+            "ace.ymt",
+            "ace.ytd"
+          ]
+        },
+        {
+          "id": "luffy",
+          "files": [
+            "luffy.ydd",
+            "luffy.yft",
+            "luffy.ymt",
+            "luffy.ytd"
+          ]
+        },
+        {
+          "id": "sabo",
+          "files": [
+            "sabo.ydd",
+            "sabo.yft",
+            "sabo.ymt",
+            "sabo.ytd"
+          ]
+        }
+      ]
+    }
+  ]
+}
