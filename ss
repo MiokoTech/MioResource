@@ -50,3 +50,18 @@
 {"ts":"2026-06-08T10:28:01.200Z","level":"log","message":"action=undefined num=0 displayType=\"\" displayTextType=\"\" followCount=0 shareCount=0 keys=[event,user]","type":"pipeline_lifecycle","status":"social_debug","reason":"","stage":"","mode":"browser","roomId":""}
 {"ts":"2026-06-08T10:28:01.315Z","level":"log","message":"","type":"pipeline_lifecycle","status":"unknown_webcast_message","reason":"","stage":"","mode":"","roomId":""}
 {"ts":"2026-06-08T10:28:26.503Z","level":"log","message":"","type":"pipeline_lifecycle","status":"unknown_webcast_message","reason":"","stage":"","mode":"","roomId":""}
+{"ts":"2026-06-08T10:29:00.434Z","level":"log","message":"","type":"room_check","status":"ok","reason":"","stage":"live_validate","mode":"","roomId":"7648968799152081686"}
+{"ts":"2026-06-08T10:29:05.215Z","level":"log","message":"","type":"pipeline_lifecycle","status":"unknown_webcast_message","reason":"","stage":"","mode":"","roomId":""}
+{"ts":"2026-06-08T10:29:31.597Z","level":"log","message":"","type":"pipeline_lifecycle","status":"unknown_webcast_message","reason":"","stage":"","mode":"","roomId":""}
+{"ts":"2026-06-08T10:29:59.922Z","level":"log","message":"","type":"room_check","status":"ok","reason":"","stage":"live_validate","mode":"","roomId":"7648968799152081686"}
+{"ts":"2026-06-08T10:30:31.693Z","level":"log","message":"action=undefined num=0 displayType=\"\" displayTextType=\"\" followCount=0 shareCount=0 keys=[event,user]","type":"pipeline_lifecycle","status":"social_debug","reason":"","stage":"","mode":"browser","roomId":""}
+{"ts":"2026-06-08T10:30:59.724Z","level":"log","message":"","type":"room_check","status":"ok","reason":"","stage":"live_validate","mode":"","roomId":"7648968799152081686"}
+{"ts":"2026-06-08T10:31:23.412Z","level":"log","message":"","type":"pipeline_lifecycle","status":"unknown_webcast_message","reason":"","stage":"","mode":"","roomId":""}
+{"ts":"2026-06-08T10:31:23.544Z","level":"log","message":"","type":"pipeline_lifecycle","status":"unknown_webcast_message","reason":"","stage":"","mode":"","roomId":""}
+{"ts":"2026-06-08T10:31:23.813Z","level":"log","message":"msgId= giftId=5655 repeatEnd=false repeatCount=1 comboCount=0 groupCount=0 groupId=1780914685602 ts=1780914686238","type":"pipeline_lifecycle","status":"gift_debug","reason":"","stage":"","mode":"browser","roomId":""}
+{"ts":"2026-06-08T10:31:23.814Z","level":"log","message":"","type":"pipeline_lifecycle","status":"unknown_webcast_message","reason":"","stage":"","mode":"","roomId":""}
+{"ts":"2026-06-08T10:31:24.014Z","level":"log","message":"","type":"pipeline_lifecycle","status":"unknown_webcast_message","reason":"","stage":"","mode":"","roomId":""}
+{"ts":"2026-06-08T10:31:24.796Z","level":"log","message":"","type":"pipeline_lifecycle","status":"unknown_webcast_message","reason":"","stage":"","mode":"","roomId":""}
+{"ts":"2026-06-08T10:31:27.171Z","level":"log","message":"msgId= giftId=5655 repeatEnd=true repeatCount=1 comboCount=0 groupCount=0 groupId=1780914685602 ts=1780914689531","type":"pipeline_lifecycle","status":"gift_debug","reason":"","stage":"","mode":"browser","roomId":""}
+{"ts":"2026-06-08T10:31:29.058Z","level":"log","message":"action=undefined num=0 displayType=\"\" displayTextType=\"\" followCount=0 shareCount=0 keys=[event,user]","type":"pipeline_lifecycle","status":"social_debug","reason":"","stage":"","mode":"browser","roomId":""}
+{"ts":"2026-06-08T10:31:31.336Z","level":"log","message":"","type":"pipeline_lifecycle","status":"unknown_webcast_message","reason":"","stage":"","mode":"","roomId":""}
