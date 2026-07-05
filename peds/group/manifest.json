@@ -4,7 +4,10 @@
     {
       "id": "avenger",
       "name": "Avengers",
-      "previews": [],
+      "previews": [
+        "preview1.jpg",
+        "preview2.jpg"
+      ],
       "members": [
         {
           "id": "captain_america",
@@ -75,33 +78,36 @@
     {
       "id": "onepiece",
       "name": "One Piece",
-      "previews": [],
+      "previews": [
+        "preview1.jpg",
+        "preview2.jpg"
+      ],
       "members": [
         {
           "id": "ace",
           "files": [
-            "ace.ydd",
-            "ace.yft",
-            "ace.ymt",
-            "ace.ytd"
+            "ace/ace.ydd",
+            "ace/ace.yft",
+            "ace/ace.ymt",
+            "ace/ace.ytd"
           ]
         },
         {
           "id": "luffy",
           "files": [
-            "luffy.ydd",
-            "luffy.yft",
-            "luffy.ymt",
-            "luffy.ytd"
+            "luffy/luffy.ydd",
+            "luffy/luffy.yft",
+            "luffy/luffy.ymt",
+            "luffy/luffy.ytd"
           ]
         },
         {
           "id": "sabo",
           "files": [
-            "sabo.ydd",
-            "sabo.yft",
-            "sabo.ymt",
-            "sabo.ytd"
+            "sabo/sabo.ydd",
+            "sabo/sabo.yft",
+            "sabo/sabo.ymt",
+            "sabo/sabo.ytd"
           ]
         }
       ]

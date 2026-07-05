@@ -5,7 +5,8 @@
       "id": "batman",
       "name": "Batman",
       "previews": [
-        "batman.webp"
+        "preview1.jpg",
+        "preview2.jpg"
       ],
       "files": [
         "batman.ydd",
@@ -17,14 +18,41 @@
     {
       "id": "boros",
       "name": "Boros",
-      "previews": [],
+      "previews": [
+        "preview1.jpg",
+        "preview2.jpg"
+      ],
+      "files": []
+    },
+    {
+      "id": "captain_america",
+      "name": "Captain America",
+      "previews": [
+        "preview1.jpg",
+        "preview2.jpg"
+      ],
+      "files": [
+        "captain_america.ydd",
+        "captain_america.yft",
+        "captain_america.ymt",
+        "captain_america.ytd"
+      ]
+    },
+    {
+      "id": "carnage",
+      "name": "Carnage",
+      "previews": [
+        "preview1.jpg",
+        "preview2.jpg"
+      ],
       "files": []
     },
     {
       "id": "deadpool",
       "name": "Deadpool",
       "previews": [
-        "deadpool.jpg"
+        "preview1.jpg",
+        "preview2.jpg"
       ],
       "files": [
         "deadpool.ydd",
@@ -37,7 +65,8 @@
       "id": "genos",
       "name": "Genos",
       "previews": [
-        "genos.webp"
+        "preview1.jpg",
+        "preview2.jpg"
       ],
       "files": [
         "genos.ydd",
@@ -50,7 +79,8 @@
       "id": "ghost_rider",
       "name": "Ghost Rider",
       "previews": [
-        "ghostrider.webp"
+        "preview1.jpg",
+        "preview2.jpg"
       ],
       "files": [
         "ghostrider.ydd",
@@ -63,7 +93,8 @@
       "id": "gojo",
       "name": "Gojo Satoru",
       "previews": [
-        "gojo.jpg"
+        "preview1.jpg",
+        "preview2.jpg"
       ],
       "files": [
         "gojo.ydd",
@@ -73,10 +104,25 @@
       ]
     },
     {
+      "id": "ironman",
+      "name": "Iron Man",
+      "previews": [
+        "preview1.jpg",
+        "preview2.jpg"
+      ],
+      "files": [
+        "ironman.ydd",
+        "ironman.yft",
+        "ironman.ymt",
+        "ironman.ytd"
+      ]
+    },
+    {
       "id": "kratos",
       "name": "Kratos",
       "previews": [
-        "kratos.jpg"
+        "preview1.jpg",
+        "preview2.jpg"
       ],
       "files": [
         "kratos.ydd",
@@ -89,7 +135,8 @@
       "id": "leon",
       "name": "Leon",
       "previews": [
-        "leon.webp"
+        "preview1.jpg",
+        "preview2.jpg"
       ],
       "files": [
         "leon.ydd",
@@ -102,7 +149,8 @@
       "id": "midoriya",
       "name": "Midoriya",
       "previews": [
-        "midoriya.jpg"
+        "preview1.jpg",
+        "preview2.jpg"
       ],
       "files": [
         "midoriya.ydd",
@@ -115,13 +163,28 @@
       "id": "miku",
       "name": "Hatsune Miku",
       "previews": [
-        "hatsunemiku.jpg"
+        "preview1.jpg",
+        "preview2.jpg"
       ],
       "files": [
         "hatunemiku.ydd",
         "hatunemiku.yft",
         "hatunemiku.ymt",
         "hatunemiku.ytd"
+      ]
+    },
+    {
+      "id": "spiderman",
+      "name": "Spider-Man",
+      "previews": [
+        "preview1.jpg",
+        "preview2.jpg"
+      ],
+      "files": [
+        "spiderman.ydd",
+        "spiderman.yft",
+        "spiderman.ymt",
+        "spiderman.ytd"
       ]
     }
   ]
