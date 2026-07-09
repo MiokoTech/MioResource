@@ -12,7 +12,8 @@
           "typeId": "godzilla",
           "previews": [
             "preview1.jpg",
-            "preview2.jpg"
+            "preview2.jpg",
+            "preview3.jpg"
           ],
           "files": [
             "godzilla.ydd",
@@ -25,7 +26,8 @@
           "typeId": "mechagodzilla",
           "previews": [
             "preview1.jpg",
-            "preview2.jpg"
+            "preview2.jpg",
+            "preview3.jpg"
           ],
           "files": [
             "mechagodzilla.ydd",
@@ -43,8 +45,7 @@
         {
           "typeId": "default",
           "previews": [
-            "preview1.jpg",
-            "preview2.jpg"
+            "preview1.jpg"
           ],
           "files": [
             "gan_q.ydd",
@@ -56,14 +57,67 @@
       ]
     },
     {
+      "id": "bumblebee",
+      "name": "Bumblebee",
+      "types": [
+        {
+          "typeId": "default",
+          "previews": [
+            "preview1.jpg"
+          ],
+          "files": [
+            "bumblebee.ydd",
+            "bumblebee.yft",
+            "bumblebee.ymt",
+            "bumblebee.ytd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gundam",
+      "name": "Gundam",
+      "types": [
+        {
+          "typeId": "default",
+          "previews": [
+            "preview1.jpg"
+          ],
+          "files": [
+            "gundam.ydd",
+            "gundam.yft",
+            "gundam.ymt",
+            "gundam.ytd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hulk",
+      "name": "Hulk",
+      "types": [
+        {
+          "typeId": "default",
+          "previews": [
+            "preview1.jpg"
+          ],
+          "files": [
+            "hulk.ydd",
+            "hulk.yft",
+            "hulk.ymt",
+            "hulk.ytd"
+          ]
+        }
+      ]
+    },
+    {
       "id": "hulkbuster",
       "name": "Hulkbuster",
       "types": [
         {
           "typeId": "default",
           "previews": [
-            "preview1.jpg",
-            "preview2.jpg"
+            "preview1.jpg"
           ],
           "files": [
             "hulkbuster.ydd",
@@ -81,14 +135,31 @@
         {
           "typeId": "default",
           "previews": [
-            "preview1.jpg",
-            "preview2.jpg"
+            "preview1.jpg"
           ],
           "files": [
             "king_kong.ydd",
             "king_kong.yft",
             "king_kong.ymt",
             "king_kong.ytd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "naruto",
+      "name": "Naruto",
+      "types": [
+        {
+          "typeId": "default",
+          "previews": [
+            "preview1.jpg"
+          ],
+          "files": [
+            "naruto.ydd",
+            "naruto.yft",
+            "naruto.ymt",
+            "naruto.ytd"
           ]
         }
       ]
@@ -118,10 +189,7 @@
       "types": [
         {
           "typeId": "default",
-          "previews": [
-            "preview1.jpg",
-            "preview2.jpg"
-          ],
+          "previews": [],
           "files": [
             "robot.ydd",
             "robot.yft",
@@ -132,14 +200,67 @@
       ]
     },
     {
+      "id": "thanos",
+      "name": "Thanos",
+      "types": [
+        {
+          "typeId": "default",
+          "previews": [
+            "preview1.jpg"
+          ],
+          "files": [
+            "thanos.ydd",
+            "thanos.yft",
+            "thanos.ymt",
+            "thanos.ytd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ultraman",
+      "name": "Ultraman",
+      "types": [
+        {
+          "typeId": "default",
+          "previews": [
+            "preview1.jpg"
+          ],
+          "files": [
+            "ultraman.ydd",
+            "ultraman.yft",
+            "ultraman.ymt",
+            "ultraman.ytd"
+          ]
+        }
+      ]
+    },
+    {
       "id": "venom",
+      "name": "Venom",
+      "types": [
+        {
+          "typeId": "default",
+          "previews": [
+            "preview1.jpg"
+          ],
+          "files": [
+            "venom.ydd",
+            "venom.yft",
+            "venom.ymt",
+            "venom.ytd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "venom_deadpool",
       "name": "Venom Deadpool",
       "types": [
         {
           "typeId": "default",
           "previews": [
-            "preview1.jpg",
-            "preview2.jpg"
+            "preview1.jpg"
           ],
           "files": [
             "venom_deadpool.ydd",

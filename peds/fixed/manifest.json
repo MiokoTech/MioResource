@@ -2,6 +2,22 @@
   "type": "fixed",
   "peds": [
     {
+      "id": "tank",
+      "name": "Tank",
+      "previews": [
+        "preview1.jpg"
+      ],
+      "files": []
+    },
+    {
+      "id": "heli",
+      "name": "Heli",
+      "previews": [
+        "preview1.jpg"
+      ],
+      "files": []
+    },
+    {
       "id": "chaos",
       "name": "Chaos",
       "previews": [
@@ -32,8 +48,7 @@
       "id": "ufo",
       "name": "UFO",
       "previews": [
-        "preview1.jpg",
-        "preview2.jpg"
+        "preview1.jpg"
       ],
       "files": []
     }

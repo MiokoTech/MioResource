@@ -2,11 +2,46 @@
   "type": "group",
   "groups": [
     {
+      "id": "onepiece",
+      "name": "One Piece",
+      "previews": [
+        "preview1.jpg"
+      ],
+      "members": [
+        {
+          "id": "ace",
+          "files": [
+            "ace/ace.ydd",
+            "ace/ace.yft",
+            "ace/ace.ymt",
+            "ace/ace.ytd"
+          ]
+        },
+        {
+          "id": "luffy",
+          "files": [
+            "luffy/luffy.ydd",
+            "luffy/luffy.yft",
+            "luffy/luffy.ymt",
+            "luffy/luffy.ytd"
+          ]
+        },
+        {
+          "id": "sabo",
+          "files": [
+            "sabo/sabo.ydd",
+            "sabo/sabo.yft",
+            "sabo/sabo.ymt",
+            "sabo/sabo.ytd"
+          ]
+        }
+      ]
+    },
+    {
       "id": "avenger",
       "name": "Avengers",
       "previews": [
-        "preview1.jpg",
-        "preview2.jpg"
+        "preview1.jpg"
       ],
       "members": [
         {
@@ -76,38 +111,46 @@
       ]
     },
     {
-      "id": "onepiece",
-      "name": "One Piece",
+      "id": "spongeboob",
+      "name": "SpongeBob",
       "previews": [
-        "preview1.jpg",
-        "preview2.jpg"
+        "preview1.jpg"
       ],
       "members": [
         {
-          "id": "ace",
+          "id": "krabs",
           "files": [
-            "ace/ace.ydd",
-            "ace/ace.yft",
-            "ace/ace.ymt",
-            "ace/ace.ytd"
+            "krabs/krabs.ydd",
+            "krabs/krabs.yft",
+            "krabs/krabs.ymt",
+            "krabs/krabs.ytd"
           ]
         },
         {
-          "id": "luffy",
+          "id": "patrick",
           "files": [
-            "luffy/luffy.ydd",
-            "luffy/luffy.yft",
-            "luffy/luffy.ymt",
-            "luffy/luffy.ytd"
+            "patrick/patrick.ydd",
+            "patrick/patrick.yft",
+            "patrick/patrick.ymt",
+            "patrick/patrick.ytd"
           ]
         },
         {
-          "id": "sabo",
+          "id": "spongeboob",
           "files": [
-            "sabo/sabo.ydd",
-            "sabo/sabo.yft",
-            "sabo/sabo.ymt",
-            "sabo/sabo.ytd"
+            "spongeboob/spongeboob.ydd",
+            "spongeboob/spongeboob.yft",
+            "spongeboob/spongeboob.ymt",
+            "spongeboob/spongeboob.ytd"
+          ]
+        },
+        {
+          "id": "squidward",
+          "files": [
+            "squidward/squidward.ydd",
+            "squidward/squidward.yft",
+            "squidward/squidward.ymt",
+            "squidward/squidward.ytd"
           ]
         }
       ]
