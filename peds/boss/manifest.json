@@ -189,7 +189,9 @@
       "types": [
         {
           "typeId": "default",
-          "previews": [],
+          "previews": [
+            "preview1.jpg"
+          ],
           "files": [
             "robot.ydd",
             "robot.yft",
