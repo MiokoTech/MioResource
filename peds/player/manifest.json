@@ -1,0 +1,50 @@
+{
+  "type": "player",
+  "peds": [
+    {
+      "id": "dante",
+      "name": "Dante",
+      "previews": [],
+      "files": [
+        "dante.ydd",
+        "dante.yft",
+        "dante.yld",
+        "dante.ymt",
+        "dante.ytd"
+      ]
+    },
+    {
+      "id": "gura",
+      "name": "Gura",
+      "previews": [],
+      "files": [
+        "gura.ydd",
+        "gura.yft",
+        "gura.ymt",
+        "gura.ytd"
+      ]
+    },
+    {
+      "id": "korone",
+      "name": "Korone",
+      "previews": [],
+      "files": [
+        "korone.ydd",
+        "korone.yft",
+        "korone.ymt",
+        "korone.ytd"
+      ]
+    },
+    {
+      "id": "yuri",
+      "name": "Yuri",
+      "previews": [],
+      "files": [
+        "yuri.ydd",
+        "yuri.yft",
+        "yuri.ymt",
+        "yuri.ytd"
+      ]
+    }
+  ]
+}
