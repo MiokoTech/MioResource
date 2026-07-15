@@ -51,6 +51,22 @@
         "preview1.jpg"
       ],
       "files": []
+    },
+    {
+      "id": "all_heli",
+      "name": "All Heli",
+      "previews": [
+        "preview1.jpg"
+      ],
+      "files": []
+    },
+    {
+      "id": "blackhole",
+      "name": "Blackhole",
+      "previews": [
+        "preview1.jpg"
+      ],
+      "files": []
     }
   ]
 }
