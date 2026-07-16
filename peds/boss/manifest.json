@@ -1,43 +1,7 @@
 {
   "type": "boss",
-  "mandatory": [
-    "godzilla"
-  ],
+  "mandatory": [],
   "peds": [
-    {
-      "id": "godzilla",
-      "name": "Godzilla",
-      "types": [
-        {
-          "typeId": "godzilla",
-          "previews": [
-            "preview1.jpg",
-            "preview2.jpg",
-            "preview3.jpg"
-          ],
-          "files": [
-            "godzilla.ydd",
-            "godzilla.yft",
-            "godzilla.ymt",
-            "godzilla.ytd"
-          ]
-        },
-        {
-          "typeId": "mechagodzilla",
-          "previews": [
-            "preview1.jpg",
-            "preview2.jpg",
-            "preview3.jpg"
-          ],
-          "files": [
-            "mechagodzilla.ydd",
-            "mechagodzilla.yft",
-            "mechagodzilla.ymt",
-            "mechagodzilla.ytd"
-          ]
-        }
-      ]
-    },
     {
       "id": "gan_q",
       "name": "Gan Q",

@@ -45,6 +45,47 @@
       "files": []
     },
     {
+      "id": "godzilla",
+      "name": "Godzilla",
+      "installType": "boss_mandatory",
+      "resourceType": "fixed",
+      "fixedKind": "godzilla",
+      "slotKey": "godzilla",
+      "targetFileName": "Maude",
+      "metadataKey": "godzilla",
+      "required": true,
+      "types": [
+        {
+          "typeId": "godzilla",
+          "previews": [
+            "preview1.jpg",
+            "preview2.jpg",
+            "preview3.jpg"
+          ],
+          "files": [
+            "godzilla.ydd",
+            "godzilla.yft",
+            "godzilla.ymt",
+            "godzilla.ytd"
+          ]
+        },
+        {
+          "typeId": "mechagodzilla",
+          "previews": [
+            "preview1.jpg",
+            "preview2.jpg",
+            "preview3.jpg"
+          ],
+          "files": [
+            "mechagodzilla.ydd",
+            "mechagodzilla.yft",
+            "mechagodzilla.ymt",
+            "mechagodzilla.ytd"
+          ]
+        }
+      ]
+    },
+    {
       "id": "ufo",
       "name": "UFO",
       "previews": [
