@@ -3,6 +3,24 @@
   "mandatory": [],
   "peds": [
     {
+      "id": "carnage",
+      "name": "Carnage",
+      "types": [
+        {
+          "typeId": "default",
+          "previews": [
+            "preview1.jpg"
+          ],
+          "files": [
+            "carnage.ydd",
+            "carnage.yft",
+            "carnage.ymt",
+            "carnage.ytd"
+          ]
+        }
+      ]
+    },
+    {
       "id": "gan_q",
       "name": "Gan Q",
       "types": [
