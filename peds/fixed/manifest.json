@@ -54,9 +54,13 @@
       "targetFileName": "Maude",
       "metadataKey": "godzilla",
       "required": true,
+      "cameraHeight": 7.4,
+      "cameraScale": 6.2,
       "types": [
         {
           "typeId": "godzilla",
+          "cameraHeight": 7.4,
+          "cameraScale": 6.2,
           "previews": [
             "preview1.jpg",
             "preview2.jpg",
@@ -71,6 +75,8 @@
         },
         {
           "typeId": "mechagodzilla",
+          "cameraHeight": 7.0,
+          "cameraScale": 5.8,
           "previews": [
             "preview1.jpg",
             "preview2.jpg",

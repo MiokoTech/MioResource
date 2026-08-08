@@ -2,6 +2,28 @@
   "type": "npc",
   "peds": [
     {
+      "id": "blademasterrobin",
+      "name": "Blade Master Robin",
+      "previews": [],
+      "files": [
+        "blademasterrobin.ydd",
+        "blademasterrobin.yft",
+        "blademasterrobin.ymt",
+        "blademasterrobin.ytd"
+      ]
+    },
+    {
+      "id": "cwblacklightning",
+      "name": "CW Black Lightning",
+      "previews": [],
+      "files": [
+        "cwblacklightning.ydd",
+        "cwblacklightning.yft",
+        "cwblacklightning.ymt",
+        "cwblacklightning.ytd"
+      ]
+    },
+    {
       "id": "Dr Salvador",
       "name": "Dr Salvador",
       "previews": [],
@@ -13,6 +35,17 @@
       ]
     },
     {
+      "id": "harley",
+      "name": "Harley",
+      "previews": [],
+      "files": [
+        "harley.ydd",
+        "harley.yft",
+        "harley.ymt",
+        "harley.ytd"
+      ]
+    },
+    {
       "id": "JackSparrow",
       "name": "Jack Sparrow",
       "previews": [],
@@ -21,6 +54,17 @@
         "JackSparrow.yft",
         "JackSparrow.ymt",
         "JackSparrow.ytd"
+      ]
+    },
+    {
+      "id": "joker",
+      "name": "Joker",
+      "previews": [],
+      "files": [
+        "joker.ydd",
+        "joker.yft",
+        "joker.ymt",
+        "joker.ytd"
       ]
     },
     {
@@ -65,50 +109,6 @@
         "ss_ripster.yft",
         "ss_ripster.ymt",
         "ss_ripster.ytd"
-      ]
-    },
-    {
-      "id": "telet_dipsy",
-      "name": "Telet Dipsy",
-      "previews": [],
-      "files": [
-        "telet_dipsy.ydd",
-        "telet_dipsy.yft",
-        "telet_dipsy.ymt",
-        "telet_dipsy.ytd"
-      ]
-    },
-    {
-      "id": "telet_lala",
-      "name": "Telet Lala",
-      "previews": [],
-      "files": [
-        "telet_lala.ydd",
-        "telet_lala.yft",
-        "telet_lala.ymt",
-        "telet_lala.ytd"
-      ]
-    },
-    {
-      "id": "telet_po",
-      "name": "Telet Po",
-      "previews": [],
-      "files": [
-        "telet_po.ydd",
-        "telet_po.yft",
-        "telet_po.ymt",
-        "telet_po.ytd"
-      ]
-    },
-    {
-      "id": "telet_tinkywinky",
-      "name": "Telet Tinkywinky",
-      "previews": [],
-      "files": [
-        "telet_tinkywinky.ydd",
-        "telet_tinkywinky.yft",
-        "telet_tinkywinky.ymt",
-        "telet_tinkywinky.ytd"
       ]
     }
   ]

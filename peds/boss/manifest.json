@@ -3,11 +3,14 @@
   "mandatory": [],
   "peds": [
     {
-      "id": "carnage",
+      "id": "small/carnage",
+      "catalogId": "carnage",
       "name": "Carnage",
+      "bossSize": "normal",
       "types": [
         {
-          "typeId": "default",
+          "typeId": "normal",
+          "size": "normal",
           "previews": [
             "preview1.jpg"
           ],
@@ -21,65 +24,14 @@
       ]
     },
     {
-      "id": "gan_q",
-      "name": "Gan Q",
-      "types": [
-        {
-          "typeId": "default",
-          "previews": [
-            "preview1.jpg"
-          ],
-          "files": [
-            "gan_q.ydd",
-            "gan_q.yft",
-            "gan_q.ymt",
-            "gan_q.ytd"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bumblebee",
-      "name": "Bumblebee",
-      "types": [
-        {
-          "typeId": "default",
-          "previews": [
-            "preview1.jpg"
-          ],
-          "files": [
-            "bumblebee.ydd",
-            "bumblebee.yft",
-            "bumblebee.ymt",
-            "bumblebee.ytd"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "gundam",
-      "name": "Gundam",
-      "types": [
-        {
-          "typeId": "default",
-          "previews": [
-            "preview1.jpg"
-          ],
-          "files": [
-            "gundam.ydd",
-            "gundam.yft",
-            "gundam.ymt",
-            "gundam.ytd"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "hulk",
+      "id": "small/hulk",
+      "catalogId": "hulk",
       "name": "Hulk",
+      "bossSize": "normal",
       "types": [
         {
-          "typeId": "default",
+          "typeId": "normal",
+          "size": "normal",
           "previews": [
             "preview1.jpg"
           ],
@@ -93,11 +45,14 @@
       ]
     },
     {
-      "id": "hulkbuster",
+      "id": "small/hulkbuster",
+      "catalogId": "hulkbuster",
       "name": "Hulkbuster",
+      "bossSize": "normal",
       "types": [
         {
-          "typeId": "default",
+          "typeId": "normal",
+          "size": "normal",
           "previews": [
             "preview1.jpg"
           ],
@@ -111,29 +66,14 @@
       ]
     },
     {
-      "id": "kingkong",
-      "name": "King Kong",
-      "types": [
-        {
-          "typeId": "default",
-          "previews": [
-            "preview1.jpg"
-          ],
-          "files": [
-            "king_kong.ydd",
-            "king_kong.yft",
-            "king_kong.ymt",
-            "king_kong.ytd"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "naruto",
+      "id": "small/naruto",
+      "catalogId": "naruto",
       "name": "Naruto",
+      "bossSize": "normal",
       "types": [
         {
-          "typeId": "default",
+          "typeId": "normal",
+          "size": "normal",
           "previews": [
             "preview1.jpg"
           ],
@@ -147,48 +87,14 @@
       ]
     },
     {
-      "id": "pasifickrim",
-      "name": "Pacific Rim",
-      "types": [
-        {
-          "typeId": "default",
-          "previews": [
-            "preview1.jpg",
-            "preview2.jpg"
-          ],
-          "files": [
-            "pasific_krim.ydd",
-            "pasific_krim.yft",
-            "pasific_krim.ymt",
-            "pasific_krim.ytd"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "robot",
-      "name": "Robot",
-      "types": [
-        {
-          "typeId": "default",
-          "previews": [
-            "preview1.jpg"
-          ],
-          "files": [
-            "robot.ydd",
-            "robot.yft",
-            "robot.ymt",
-            "robot.ytd"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "thanos",
+      "id": "small/thanos",
+      "catalogId": "thanos",
       "name": "Thanos",
+      "bossSize": "normal",
       "types": [
         {
-          "typeId": "default",
+          "typeId": "normal",
+          "size": "normal",
           "previews": [
             "preview1.jpg"
           ],
@@ -202,29 +108,14 @@
       ]
     },
     {
-      "id": "ultraman",
-      "name": "Ultraman",
-      "types": [
-        {
-          "typeId": "default",
-          "previews": [
-            "preview1.jpg"
-          ],
-          "files": [
-            "ultraman.ydd",
-            "ultraman.yft",
-            "ultraman.ymt",
-            "ultraman.ytd"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "venom",
+      "id": "small/venom",
+      "catalogId": "venom",
       "name": "Venom",
+      "bossSize": "normal",
       "types": [
         {
-          "typeId": "default",
+          "typeId": "normal",
+          "size": "normal",
           "previews": [
             "preview1.jpg"
           ],
@@ -238,11 +129,14 @@
       ]
     },
     {
-      "id": "venom_deadpool",
+      "id": "small/venom_deadpool",
+      "catalogId": "venom_deadpool",
       "name": "Venom Deadpool",
+      "bossSize": "normal",
       "types": [
         {
-          "typeId": "default",
+          "typeId": "normal",
+          "size": "normal",
           "previews": [
             "preview1.jpg"
           ],
@@ -252,6 +146,207 @@
             "venom_deadpool.ymt",
             "venom_deadpool.ytd"
           ]
+        }
+      ]
+    },
+    {
+      "id": "large/bumblebee",
+      "catalogId": "bumblebee",
+      "name": "Bumblebee",
+      "bossSize": "large",
+      "cameraHeight": 5.4,
+      "cameraScale": 3.6,
+      "types": [
+        {
+          "typeId": "large",
+          "size": "large",
+          "previews": [
+            "preview1.jpg"
+          ],
+          "files": [
+            "bumblebee.ydd",
+            "bumblebee.yft",
+            "bumblebee.ymt",
+            "bumblebee.ytd"
+          ],
+          "cameraHeight": 5.4,
+          "cameraScale": 3.6
+        }
+      ]
+    },
+    {
+      "id": "large/eva01",
+      "catalogId": "eva01",
+      "name": "EVA-01",
+      "bossSize": "large",
+      "cameraHeight": 5.8,
+      "cameraScale": 3.9,
+      "types": [
+        {
+          "typeId": "large",
+          "size": "large",
+          "previews": [
+            "preview_1.jpg"
+          ],
+          "files": [
+            "eva01.ydd",
+            "eva01.yft",
+            "eva01.ymt",
+            "eva01.ytd"
+          ],
+          "cameraHeight": 5.8,
+          "cameraScale": 3.9
+        }
+      ]
+    },
+    {
+      "id": "large/gan_q",
+      "catalogId": "gan_q",
+      "name": "Gan Q",
+      "bossSize": "large",
+      "cameraHeight": 4.2,
+      "cameraScale": 2.8,
+      "types": [
+        {
+          "typeId": "large",
+          "size": "large",
+          "previews": [
+            "preview1.jpg"
+          ],
+          "files": [
+            "gan_q.ydd",
+            "gan_q.yft",
+            "gan_q.ymt",
+            "gan_q.ytd"
+          ],
+          "cameraHeight": 4.2,
+          "cameraScale": 2.8
+        }
+      ]
+    },
+    {
+      "id": "large/gundam",
+      "catalogId": "gundam",
+      "name": "Gundam",
+      "bossSize": "large",
+      "cameraHeight": 5.8,
+      "cameraScale": 3.9,
+      "types": [
+        {
+          "typeId": "large",
+          "size": "large",
+          "previews": [
+            "preview1.jpg"
+          ],
+          "files": [
+            "gundam.ydd",
+            "gundam.yft",
+            "gundam.ymt",
+            "gundam.ytd"
+          ],
+          "cameraHeight": 5.8,
+          "cameraScale": 3.9
+        }
+      ]
+    },
+    {
+      "id": "large/kingkong",
+      "catalogId": "kingkong",
+      "name": "King Kong",
+      "bossSize": "large",
+      "cameraHeight": 7,
+      "cameraScale": 5.7,
+      "types": [
+        {
+          "typeId": "large",
+          "size": "large",
+          "previews": [
+            "preview1.jpg"
+          ],
+          "files": [
+            "king_kong.ydd",
+            "king_kong.yft",
+            "king_kong.ymt",
+            "king_kong.ytd"
+          ],
+          "cameraHeight": 7,
+          "cameraScale": 5.7
+        }
+      ]
+    },
+    {
+      "id": "large/pasifickrim",
+      "catalogId": "pasifickrim",
+      "name": "Pacific Rim",
+      "bossSize": "large",
+      "cameraHeight": 6.2,
+      "cameraScale": 4.4,
+      "types": [
+        {
+          "typeId": "large",
+          "size": "large",
+          "previews": [
+            "preview1.jpg",
+            "preview2.jpg"
+          ],
+          "files": [
+            "pasific_krim.ydd",
+            "pasific_krim.yft",
+            "pasific_krim.ymt",
+            "pasific_krim.ytd"
+          ],
+          "cameraHeight": 6.2,
+          "cameraScale": 4.4
+        }
+      ]
+    },
+    {
+      "id": "large/robot",
+      "catalogId": "robot",
+      "name": "Robot",
+      "bossSize": "large",
+      "cameraHeight": 4.6,
+      "cameraScale": 3.1,
+      "types": [
+        {
+          "typeId": "large",
+          "size": "large",
+          "previews": [
+            "preview1.jpg"
+          ],
+          "files": [
+            "robot.ydd",
+            "robot.yft",
+            "robot.ymt",
+            "robot.ytd"
+          ],
+          "cameraHeight": 4.6,
+          "cameraScale": 3.1
+        }
+      ]
+    },
+    {
+      "id": "large/ultraman",
+      "catalogId": "ultraman",
+      "name": "Ultraman",
+      "bossSize": "large",
+      "cameraHeight": 5.8,
+      "cameraScale": 3.9,
+      "types": [
+        {
+          "typeId": "large",
+          "size": "large",
+          "previews": [
+            "preview1.jpg"
+          ],
+          "files": [
+            "ultraman.ydd",
+            "ultraman.yft",
+            "ultraman.ymt",
+            "ultraman.ytd"
+          ],
+          "cameraHeight": 5.8,
+          "cameraScale": 3.9
         }
       ]
     }

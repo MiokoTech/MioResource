@@ -2,6 +2,19 @@
   "type": "normal",
   "peds": [
     {
+      "id": "ada",
+      "name": "Ada",
+      "previews": [
+        "preview_1.jpg"
+      ],
+      "files": [
+        "ada.ydd",
+        "ada.yft",
+        "ada.ymt",
+        "ada.ytd"
+      ]
+    },
+    {
       "id": "alien",
       "name": "Alien",
       "previews": [
@@ -172,6 +185,19 @@
       ]
     },
     {
+      "id": "nier",
+      "name": "Nier",
+      "previews": [
+        "preview_1.jpg"
+      ],
+      "files": [
+        "nier.ydd",
+        "nier.yft",
+        "nier.ymt",
+        "nier.ytd"
+      ]
+    },
+    {
       "id": "spiderman",
       "name": "Spider-Man",
       "previews": [
@@ -182,6 +208,19 @@
         "spiderman.yft",
         "spiderman.ymt",
         "spiderman.ytd"
+      ]
+    },
+    {
+      "id": "sukuna",
+      "name": "Sukuna",
+      "previews": [
+        "preview_1.jpg"
+      ],
+      "files": [
+        "sukuna.ydd",
+        "sukuna.yft",
+        "sukuna.ymt",
+        "sukuna.ytd"
       ]
     },
     {

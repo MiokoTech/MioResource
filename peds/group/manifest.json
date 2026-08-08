@@ -2,42 +2,6 @@
   "type": "group",
   "groups": [
     {
-      "id": "onepiece",
-      "name": "One Piece",
-      "previews": [
-        "preview1.jpg"
-      ],
-      "members": [
-        {
-          "id": "ace",
-          "files": [
-            "ace/ace.ydd",
-            "ace/ace.yft",
-            "ace/ace.ymt",
-            "ace/ace.ytd"
-          ]
-        },
-        {
-          "id": "luffy",
-          "files": [
-            "luffy/luffy.ydd",
-            "luffy/luffy.yft",
-            "luffy/luffy.ymt",
-            "luffy/luffy.ytd"
-          ]
-        },
-        {
-          "id": "sabo",
-          "files": [
-            "sabo/sabo.ydd",
-            "sabo/sabo.yft",
-            "sabo/sabo.ymt",
-            "sabo/sabo.ytd"
-          ]
-        }
-      ]
-    },
-    {
       "id": "avenger",
       "name": "Avengers",
       "previews": [
@@ -106,6 +70,114 @@
             "thor/thor.yld",
             "thor/thor.ymt",
             "thor/thor.ytd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "genshin",
+      "name": "Genshin",
+      "previews": [
+        "preview_1.jpg"
+      ],
+      "members": [
+        {
+          "id": "fischer",
+          "files": [
+            "fischer/fischer.ydd",
+            "fischer/fischer.yft",
+            "fischer/fischer.ymt",
+            "fischer/fischer.ytd"
+          ]
+        },
+        {
+          "id": "furina",
+          "files": [
+            "furina/furina.ydd",
+            "furina/furina.yft",
+            "furina/furina.ymt",
+            "furina/furina.ytd"
+          ]
+        },
+        {
+          "id": "keqing",
+          "files": [
+            "keqing/keqing.ydd",
+            "keqing/keqing.yft",
+            "keqing/keqing.ymt",
+            "keqing/keqing.ytd"
+          ]
+        },
+        {
+          "id": "klee",
+          "files": [
+            "klee/klee.ydd",
+            "klee/klee.yft",
+            "klee/klee.ymt",
+            "klee/klee.ytd"
+          ]
+        },
+        {
+          "id": "lumine",
+          "files": [
+            "lumine/lumine.ydd",
+            "lumine/lumine.yft",
+            "lumine/lumine.ymt",
+            "lumine/lumine.ytd"
+          ]
+        },
+        {
+          "id": "varesa",
+          "files": [
+            "varesa/varesa.ydd",
+            "varesa/varesa.yft",
+            "varesa/varesa.ymt",
+            "varesa/varesa.ytd"
+          ]
+        },
+        {
+          "id": "yoimiya",
+          "files": [
+            "yoimiya/yoimiya.ydd",
+            "yoimiya/yoimiya.yft",
+            "yoimiya/yoimiya.ymt",
+            "yoimiya/yoimiya.ytd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "onepiece",
+      "name": "One Piece",
+      "previews": [
+        "preview1.jpg"
+      ],
+      "members": [
+        {
+          "id": "ace",
+          "files": [
+            "ace/ace.ydd",
+            "ace/ace.yft",
+            "ace/ace.ymt",
+            "ace/ace.ytd"
+          ]
+        },
+        {
+          "id": "luffy",
+          "files": [
+            "luffy/luffy.ydd",
+            "luffy/luffy.yft",
+            "luffy/luffy.ymt",
+            "luffy/luffy.ytd"
+          ]
+        },
+        {
+          "id": "sabo",
+          "files": [
+            "sabo/sabo.ydd",
+            "sabo/sabo.yft",
+            "sabo/sabo.ymt",
+            "sabo/sabo.ytd"
           ]
         }
       ]
