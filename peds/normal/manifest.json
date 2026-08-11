@@ -146,6 +146,19 @@
       ]
     },
     {
+      "id": "kurumi",
+      "name": "Kurumi",
+      "previews": [
+        "preview_1.jpg"
+      ],
+      "files": [
+        "kurumi.ydd",
+        "kurumi.yft",
+        "kurumi.ymt",
+        "kurumi.ytd"
+      ]
+    },
+    {
       "id": "leon",
       "name": "Leon",
       "previews": [
@@ -182,6 +195,19 @@
         "hatunemiku.yft",
         "hatunemiku.ymt",
         "hatunemiku.ytd"
+      ]
+    },
+    {
+      "id": "minion",
+      "name": "Minion",
+      "previews": [
+        "preview_1.jpg"
+      ],
+      "files": [
+        "Minion.ydd",
+        "Minion.yft",
+        "Minion.ymt",
+        "Minion.ytd"
       ]
     },
     {
